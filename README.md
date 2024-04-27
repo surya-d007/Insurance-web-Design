@@ -22,7 +22,7 @@ Include screenshots or GIFs of the website design here.
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/surya-d007/Insurance-web-Design.git
     ```
 
 2. Open the `index.html` file in a web browser to view the website design.
