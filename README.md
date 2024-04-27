@@ -3,6 +3,11 @@
 ## Description
 This project is a front-end design for an insurance company website. It showcases the user interface and layout using HTML and CSS.
 
+
+## Website Preview
+You can view the website [here](https://surya-d007.github.io/Insurance-web-Design/).
+
+
 ## Features
 - Responsive Design: The website is designed to be responsive and compatible with different screen sizes.
 - Clean and Modern UI: The user interface is designed to be visually appealing and easy to navigate.
